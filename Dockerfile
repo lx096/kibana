@@ -1,0 +1,1 @@
+FROM docker.elastic.co/kibana/kibana:7.3.1@sha256:79d778d55d89d8df99ac4410d2c0eccea65779e5f69d63b1302181f551273d2e
